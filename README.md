@@ -67,5 +67,8 @@ This plot shows the final five customer segments based on their income and spend
 ### Libraries Used
 - Pandas
 - Scikit-learn
-
 - Matplotlib
+
+### Dataset Used
+- https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
+
