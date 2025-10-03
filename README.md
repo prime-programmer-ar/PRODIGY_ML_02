@@ -43,8 +43,8 @@ This plot shows the final five customer segments based on their income and spend
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/your-repo.git
-    cd your-repo
+    git clone https://github.com/prime-programmer-ar/PRODIGY_ML_02
+    cd PRODIGY_ML_02
     ```
 
 2.  **Install dependencies:**
@@ -67,4 +67,5 @@ This plot shows the final five customer segments based on their income and spend
 ### Libraries Used
 - Pandas
 - Scikit-learn
+
 - Matplotlib
